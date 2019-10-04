@@ -1,0 +1,281 @@
+# depslib dependency file v1.0
+1476207491 source:c:\users\aluno\desktop\agenda.cpp
+	"Agenda.h"
+	<iostream>
+
+1476209276 
+
+1476207432 c:\users\aluno\desktop\agenda.h
+	<vector>
+	"Pessoa.h"
+
+1476206992 c:\users\aluno\desktop\pessoa.h
+	<string>
+
+1476207645 source:c:\users\aluno\desktop\main_agenda.cpp
+	<iostream>
+	"Pessoa.h"
+	"Agenda.h"
+
+1476207427 source:c:\users\aluno\desktop\pessoa.cpp
+	"Pessoa.h"
+
+1476208173 source:c:\users\aluno\desktop\pecas.cpp
+	"Pecas.h"
+
+1476208753 c:\users\aluno\desktop\pecas.h
+	<string>
+
+1476209236 source:c:\users\aluno\desktop\produtos.cpp
+	"Produtos.h"
+	<iostream>
+
+1476209404 c:\users\aluno\desktop\produtos.h
+	<vector>
+	"Pecas.h"
+	<fstream>
+
+1476209276 source:c:\users\aluno\desktop\main.cpp
+	<iostream>
+	"Pecas.h"
+	"Produtos.h"
+	<cstdlib>
+
+1476377910 source:/media/aluno/PENDRIVE/Loja_Pecas/Agenda_cpp/main.cpp
+	<iostream>
+	<cstdlib>
+	"Pecas.h"
+	"Produtos.h"
+
+1476377418 /media/aluno/PENDRIVE/Loja_Pecas/Agenda_cpp/Pecas.h
+	<string>
+
+1476378082 /media/aluno/PENDRIVE/Loja_Pecas/Agenda_cpp/Produtos.h
+	<vector>
+	"Pecas.h"
+	<fstream>
+
+1476377436 source:/media/aluno/PENDRIVE/Loja_Pecas/Agenda_cpp/Pecas.cpp
+	"Pecas.h"
+
+1476378138 source:/media/aluno/PENDRIVE/Loja_Pecas/Agenda_cpp/Produtos.cpp
+	"Produtos.h"
+	<iostream>
+
+1476388486 source:c:\users\aluno\desktop\loja_pecas\agenda_cpp\main.cpp
+	<iostream>
+	<cstdlib>
+	"Pecas.h"
+	"Produtos.h"
+
+1476381018 c:\users\aluno\desktop\loja_pecas\agenda_cpp\pecas.h
+	<string>
+
+1476381682 c:\users\aluno\desktop\loja_pecas\agenda_cpp\produtos.h
+	<vector>
+	"Pecas.h"
+	<fstream>
+
+1476381036 source:c:\users\aluno\desktop\loja_pecas\agenda_cpp\pecas.cpp
+	"Pecas.h"
+
+1476381738 source:c:\users\aluno\desktop\loja_pecas\agenda_cpp\produtos.cpp
+	"Produtos.h"
+	<iostream>
+
+1478009112 source:f:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\borracha.cpp
+	"Borracha.h"
+
+1477587536 f:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\borracha.h
+	"Pecas.h"
+	<string>
+
+1477587488 f:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\pecas.h
+	<string>
+	<fstream>
+	<iostream>
+
+1478012998 source:f:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\lote.cpp
+	"Lote.h"
+
+1477599898 f:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\lote.h
+	<iostream>
+	<vector>
+	<string>
+	"Variaveis.h"
+	"Borracha.h"
+	"Metal.h"
+
+1476386244 f:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\variaveis.h
+
+1477587550 f:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\metal.h
+	"Pecas.h"
+
+1478013114 source:f:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\main.cpp
+	<iostream>
+	<cstdlib>
+	"Pecas.h"
+	"Produtos.h"
+
+1478009226 f:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\produtos.h
+	<vector>
+	<fstream>
+	"Lote.h"
+
+1478009142 source:f:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\metal.cpp
+	"Metal.h"
+
+1478009190 source:f:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\pecas.cpp
+	"Pecas.h"
+
+1477587526 source:d:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\borracha.cpp
+	"Borracha.h"
+
+1477587536 d:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\borracha.h
+	"Pecas.h"
+	<string>
+
+1477587488 d:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\pecas.h
+	<string>
+	<fstream>
+	<iostream>
+
+1477600678 source:d:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\lote.cpp
+	"Lote.h"
+
+1477599898 d:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\lote.h
+	<iostream>
+	<vector>
+	<string>
+	"Variaveis.h"
+	"Borracha.h"
+	"Metal.h"
+
+1476386244 d:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\variaveis.h
+
+1477587550 d:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\metal.h
+	"Pecas.h"
+
+1477587940 source:d:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\main.cpp
+	<iostream>
+	<cstdlib>
+	"Pecas.h"
+	"Produtos.h"
+
+1477601186 d:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\produtos.h
+	<vector>
+	"Lote.h"
+	<fstream>
+
+1477588020 source:d:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\metal.cpp
+	"Metal.h"
+
+1477588038 source:d:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\pecas.cpp
+	"Pecas.h"
+
+1477600914 source:d:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\produtos.cpp
+	"Produtos.h"
+	<iostream>
+
+1478012158 source:f:\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\produtos.cpp
+	"Produtos.h"
+	<iostream>
+
+1478009112 source:c:\users\cinthya\desktop\01\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\borracha.cpp
+	"Borracha.h"
+
+1477587536 c:\users\cinthya\desktop\01\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\borracha.h
+	"Pecas.h"
+	<string>
+
+1477587488 c:\users\cinthya\desktop\01\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\pecas.h
+	<string>
+	<fstream>
+	<iostream>
+
+1478013428 source:c:\users\cinthya\desktop\01\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\lote.cpp
+	"Lote.h"
+
+1477599898 c:\users\cinthya\desktop\01\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\lote.h
+	<iostream>
+	<vector>
+	<string>
+	"Variaveis.h"
+	"Borracha.h"
+	"Metal.h"
+
+1476382644 c:\users\cinthya\desktop\01\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\variaveis.h
+
+1477587550 c:\users\cinthya\desktop\01\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\metal.h
+	"Pecas.h"
+
+1478013114 source:c:\users\cinthya\desktop\01\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\main.cpp
+	<iostream>
+	<cstdlib>
+	"Pecas.h"
+	"Produtos.h"
+
+1478009226 c:\users\cinthya\desktop\01\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\produtos.h
+	<vector>
+	<fstream>
+	"Lote.h"
+
+1478009142 source:c:\users\cinthya\desktop\01\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\metal.cpp
+	"Metal.h"
+
+1478009190 source:c:\users\cinthya\desktop\01\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\pecas.cpp
+	"Pecas.h"
+
+1478012158 source:c:\users\cinthya\desktop\01\25.10.2016\loja_pecas 13.10.2016\agenda_cpp\produtos.cpp
+	"Produtos.h"
+	<iostream>
+
+1478009112 source:c:\users\erivan\desktop\loja pecas\borracha.cpp
+	"Borracha.h"
+
+1477587536 c:\users\erivan\desktop\loja pecas\borracha.h
+	"Pecas.h"
+	<string>
+
+1477587488 c:\users\erivan\desktop\loja pecas\pecas.h
+	<string>
+	<fstream>
+	<iostream>
+
+1478013428 source:c:\users\erivan\desktop\loja pecas\lote.cpp
+	"Lote.h"
+
+1477599898 c:\users\erivan\desktop\loja pecas\lote.h
+	<iostream>
+	<vector>
+	<string>
+	"Variaveis.h"
+	"Borracha.h"
+	"Metal.h"
+
+1476386244 c:\users\erivan\desktop\loja pecas\variaveis.h
+
+1477587550 c:\users\erivan\desktop\loja pecas\metal.h
+	"Pecas.h"
+
+1478013114 source:c:\users\erivan\desktop\loja pecas\main.cpp
+	<iostream>
+	<cstdlib>
+	"Pecas.h"
+	"Produtos.h"
+
+1478009226 c:\users\erivan\desktop\loja pecas\produtos.h
+	<vector>
+	<fstream>
+	"Lote.h"
+
+1478009142 source:c:\users\erivan\desktop\loja pecas\metal.cpp
+	"Metal.h"
+
+1478009190 source:c:\users\erivan\desktop\loja pecas\pecas.cpp
+	"Pecas.h"
+
+1478012158 source:c:\users\erivan\desktop\loja pecas\produtos.cpp
+	"Produtos.h"
+	<iostream>
+
